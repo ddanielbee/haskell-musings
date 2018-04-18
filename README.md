@@ -1,0 +1,2 @@
+# haskell-musings
+Haskell playground
