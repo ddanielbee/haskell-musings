@@ -1,3 +1,4 @@
+-- Kata found here: http://osherove.com/tdd-kata-1/
 module Calculator where
 
 import Data.List.Split (splitOn, splitWhen)
